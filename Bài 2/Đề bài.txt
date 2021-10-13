@@ -1,0 +1,12 @@
+cho file input là bang diem mon hoc cua sinh viên
+msv, ho ten, mon hoc, diem
+sv1, xxx, mh1, 10
+sv1, xxx, mh2, 4,
+sv2, xxx, mh1, 5,
+sv3, xxx, mh1, 2,
+sv3, xxx, mh1, 7,
+
+1. doc file input
+2. tong hop diem cua tung sinh viên
+3. liet kê diem sinh viên theo tung môn hoc
+4. sep xep theo diem tong cua sinh viên giam dan
